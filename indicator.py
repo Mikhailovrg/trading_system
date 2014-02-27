@@ -1,5 +1,6 @@
 class Indicator:
-	def iMA(self, day, period=2):		
+	def iMA(self, day, period=2):
+			
 		#
 	def iRSI(self, period=2):
 		#
